@@ -61,11 +61,11 @@ For a complete list of publications, please visit our official [Publications Pag
 
 ---
 
+
 ## 📋 Repository Guidelines
 
-To ensure code quality, research reproducibility, and long-term maintainability, all repositories hosted under the TUDa-HWAI GitHub Organization should follow our repository management guidelines.
+All repositories maintained by TUDa-HWAI should follow our [Repository Management Policy](https://github.com/TUDa-HWAI/.github/blob/main/docs/REPOSITORY_POLICY.md) to ensure code quality, research reproducibility, and long-term maintainability.
 
-📖 **[GitHub Repository Management Policy](https://github.com/TUDa-HWAI/.github/blob/main/docs/REPOSITORY_POLICY.md)**
 ---
 
 *Hardware for Artificial Intelligence (HWAI) · Technische Universität Darmstadt*

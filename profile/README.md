@@ -20,7 +20,6 @@ Our research focuses on the following areas:
 - Hardware accelerators for AI algorithms and systems
 - AI computing with emerging devices, including RRAM (Resistive Random Access Memory) and optical components
 - Timing analysis of digital circuits
-- Design and optimization of efficient machine learning hardware-software architectures
 - Machine learning for Electronic Design Automation (EDA) of integrated circuits and systems
 - Explainable Artificial Intelligence (XAI)
 - Neuromorphic computing
